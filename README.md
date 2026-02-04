@@ -16,7 +16,7 @@ Output: Edit Distance = 1
 
 📌 Based on DP table comparison between characters. 
 
-Project1
+
 
 🔹 Project 2 — Sentence Cleaning & Basic NLP Preprocessing
 
@@ -37,8 +37,6 @@ Output: ['quick', 'brown', 'fox', 'jump', 'lazy', 'dogs']
 
 
 📌 Uses regex and dictionary-based stemming. 
-
-Project2
 
 🔹 Project 3 — Spam Detection (Keyword Based)
 
@@ -64,8 +62,6 @@ Otherwise "not spam"
 
 📌 Uses case-insensitive keyword search. 
 
-Project3
-
 🔹 Project 4 — Text Cleaning for Sentiment Analysis
 
 Prepares text for sentiment analysis by removing:
@@ -84,8 +80,6 @@ Output: ['i', 'love', 'movie']
 
 📌 Uses regex filtering and tokenization. 
 
-Project4
-
 🔹 Project 5 — Advanced Distance + Keyboard Error Weighting
 
 Contains:
@@ -103,7 +97,6 @@ Correct: HELLO
 Suggests correction if weighted distance is lower than standard edit distance.
 
 📌 Useful for typo correction systems.
-
 
 
 ngram.py
